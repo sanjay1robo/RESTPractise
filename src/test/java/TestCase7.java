@@ -43,3 +43,22 @@ public class TestCase7 {
     }
 
 }
+
+// request url : http://localhost:3030/healthcheck
+
+// expected response body :
+
+//{
+//    "uptime": 5292.375,
+//    "readonly": false,
+//    "documents": {
+//    "products": 51999,
+//    "stores": 1561,
+//    "categories": 4309
+//    }
+//    }
+
+// errors encountered
+// Please refer the Error history.txt file for more infomration on the error
+
+
